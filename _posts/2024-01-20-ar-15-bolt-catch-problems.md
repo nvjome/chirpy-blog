@@ -19,15 +19,15 @@ Some more research guided me towards checking the bolt catch to see if that was 
 
 This is what should be happening, with the follower pushing up on the bolt catch.
 
-![Desktop View](/assets/img/posts/bolt_catch_normal.jpg){: .w-75}
+![Normal](/assets/img/posts/bolt_catch_normal.jpg){: .w-75}
 
 This is what was actually happening when the bolt wasn't being held open.
 
-![](/assets/img/posts/bolt_catch_problem.jpg){: .w-75}
+![Not normal](/assets/img/posts/bolt_catch_problem.jpg){: .w-75}
 
 Here's another angle that clearly shows the follower missing the finger of bolt catch.
 
-![](/assets/img/posts/bolt_catch_problem2.jpg){: .w-75}
+![Not normal again](/assets/img/posts/bolt_catch_problem2.jpg){: .w-75}
 
 The magazine follower was jamming in front of the little finger of the bolt catch and not pushing up from below as it should be. It seems the problem could come from a combination of sources:
 - Tolerance stacking between the bolt catch, lower receiver, and magazine.
@@ -48,21 +48,21 @@ I bought a CMMG MK9 bolt catch from [Brownells](https://www.brownells.com/gun-pa
 
 I first removed the upper receiver and the original bolt catch. I loaded one round in a magazine and installed the AR9 catch. With the magazine mostly inserted I marked where to make the first cut. The catch should extend over the follower as much as possible without interfering with the catridges.
 
-![](/assets/img/posts/bolt_catch_mark.jpg){: .w-75}
+![Marking first cut](/assets/img/posts/bolt_catch_mark.jpg){: .w-75}
 
 Next I made the first rough cut with a Dremel and cutting wheel (yes, I'm doing this with two clamps and a grill on my apartment balcony, don't worry about it).
 
-![](/assets/img/posts/bolt_catch_cut.jpg){: .w-75}
+![First cut made](/assets/img/posts/bolt_catch_cut.jpg){: .w-75}
 
 I fit the catch and checked the clearance between the catch and the loaded rounds, grinding the catch until it fit well.
 
-![](/assets/img/posts/bolt_catch_cut2.jpg){: .w-75}
+![Test fit](/assets/img/posts/bolt_catch_cut2.jpg){: .w-75}
 
-![](/assets/img/posts/bolt_catch_cut3.jpg){: .w-75}
+![Test fit](/assets/img/posts/bolt_catch_cut3.jpg){: .w-75}
 
 Here's the original and modified catch so far.
 
-![](/assets/img/posts/bolt_catch_compare.jpg){: .w-75}
+![Progress compared](/assets/img/posts/bolt_catch_compare.jpg){: .w-75}
 
 After this cut was done, there was still more grinding and cutting needed to make the catch function correctly. The AR9 catch doesn't have the same geometry as the AR-15 catch. It was slightly taller and was missing the sort of angled ramps which turned out to be very important.
 
@@ -72,17 +72,17 @@ One of the forum discussions mentioned this, but I ended up grinding much more t
 
 I first ground down the top to match the height of the original. Then I thinned out the finger to give more clearance between the catch and the bolt. Lastly, I formed the ramps for the bolt lugs, grinding a little, test fitting and checking the bolt movement with an empty magazone installed, the grinding some more. After the bolt was freely moving back over the catch, I removed just a little more metal for clearance. After cleaning up the grinds and rounding out the edges a bit, the new catch was done!
 
-![](/assets/img/posts/bolt_catch_done.jpg){: .w-75}
+![New bolt catch](/assets/img/posts/bolt_catch_done.jpg){: .w-75}
 
-![](/assets/img/posts/bolt_catch_done2.jpg){: .w-75}
+![New bolt catch](/assets/img/posts/bolt_catch_done2.jpg){: .w-75}
 
-![](/assets/img/posts/bolt_catch_compare2.jpg){: .w-75}
+![New bolt catch and original compared](/assets/img/posts/bolt_catch_compare2.jpg){: .w-75}
 
 Here's the new catch installed.
 
-![](/assets/img/posts/bolt_catch_install.jpg){: .w-75}
+![New catch installed](/assets/img/posts/bolt_catch_install.jpg){: .w-75}
 
-![](/assets/img/posts/bolt_catch_install2.jpg){: .w-75}
+![New catch installed](/assets/img/posts/bolt_catch_install2.jpg){: .w-75}
 
 ## Live Testing
 
