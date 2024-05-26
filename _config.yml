@@ -16,7 +16,7 @@ timezone: CST
 
 title: Nolan's Site # the main title
 
-tagline: Stuff I do I guess # it will display as the sub-title
+tagline: Stuff I do I guess. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Nolan's blog about random stuff in an attempt to learn some other stuff.
