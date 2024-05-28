@@ -9,7 +9,7 @@ tags: [firearms]
 
 ## Last Round Bolt Hold Open
 
-The typical AR-15 design includes a last round bolt hold open feature to lock back the bolt after firing the last round in the magazine. The bolt catch is the part responsible for this and is positioned behind the magwell in the lower receiver. When the last round/catridge of the magazine is fired, the bolt moves back and ejects the spent brass. Meanwhile, the magazine follower pushes up on the bolt catch, which stops the bolt from moving forward again. This holds the bolt back durign reload for a quick chambering of the first round in the next magazine.
+The typical AR-15 design includes a last round bolt hold open feature to lock back the bolt after firing the last round in the magazine. The bolt catch is the part responsible for this and is positioned behind the magwell in the lower receiver. When the last round/catridge of the magazine is fired, the bolt moves back and ejects the spent brass. Meanwhile, the magazine follower pushes up on the bolt catch, which stops the bolt from moving forward again. This holds the bolt back during reload for a quick chambering of the first round in the next magazine.
 
 ## The Problem
 
