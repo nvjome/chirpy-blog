@@ -10,4 +10,4 @@ I attend a Bible study group at a local church, and we will soon be doing a seri
 
 ## Who is Joab?
 
-Joab appears in the Bible during the reign of King David over Israel. He was David's nephew, the son of David's sister Zeruiah ([1 Chronicles 2:13-16](https://www.biblegateway.com/passage/?search=1%20Chronicles%202%3A13-17&version=NIV)).
+Joab appears in the Bible during the reign of King David. He was David's nephew, the son of David's sister Zeruiah ([1 Chronicles 2:13-16](https://www.biblegateway.com/passage/?search=1%20Chronicles%202%3A13-17&version=NIV)), and is the commander of David's army.

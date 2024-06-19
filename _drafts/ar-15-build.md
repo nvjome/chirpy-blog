@@ -91,6 +91,22 @@ A generic parts kit. It included a grip which I didn't need, but I had a hard ti
 
 This included the buffer tube, spring, and buffer weight. They can all be source individually, but the compelte kit saves a bit of money. The enhanced [verify] version makes some tweaks on the mil-spec design that I though were good. Also, the standard version wasn't in stock and other kits were more expensive at the time.
 
+### Stock
+
+| Brand          | Price  | Source             |
+| :------------- | :----- | :----------------- |
+| Magpul MOE SL |  |  |
+
+I liked the cleaner look of the Magpul MOE SL stock over their mil-spec version. It fits snugly to the buffer tub with no rattle.
+
+### Handgrip
+
+| Brand          | Price  | Source             |
+| :------------- | :----- | :----------------- |
+| Magpul MOE SL |  |  |
+
+I went with the SL grip for no other reason than it matches the stock. It has a little storage pocket inside that can hold a spare battery, lens cloth, and small screwdriver for optic adjustments.
+
 ### Upper Assembly
 
 | Brand          | Price  | Source             |
@@ -99,7 +115,7 @@ This included the buffer tube, spring, and buffer weight. They can all be source
 
 I went with an complete upper to ease assembly difficulty. In hindsight, I probably would have been fine assembling the upper myself, but this kit was on sale with a BCG and charging handled included, which saved quite a bit of money compared to sourcing all the part individually.
 
-This upper had a 16 inch barrel, which is the shortest legal length while still being a rifle and not a short barreled rifle (SBR). I liked the look of the floating handguard, and it had picitanny rail on top and M-Lock slots on the bottom and sides. The
+This upper had a 16 inch barrel, which is the shortest legal length without being a short barreled rifle (SBR). I liked the look of the floating handguard, and it had picitanny rail on top and M-Lock slots on the bottom and sides to mount accesories. I probably won't go crazy with mounting light, lasers, or whatever people are doing these days, but having the option available is good.
 
 ### Optic
 
@@ -107,4 +123,14 @@ This upper had a 16 inch barrel, which is the shortest legal length while still 
 | :------------- | :----- | :----------------- |
 | Vortex |  |  |
 
-I chose the Vortex Spitfire Gen 2 with 3x magnification. I've found the 3x magnification is low enough that close range acquisition is reasonably quick while still giving a bit more oomph at mediom-long ranges. I also like that it is a prism optic which prevents dot blur if you have an astigmatism. Some dislikes include the coarse adjustments (1 moa per click) and the short eye relief and small eye box.
+I chose the Vortex Spitfire Gen 2 with 3x magnification. I've found the 3x magnification is low enough that close range acquisition is reasonably quick while still giving a bit more visibility at medium ranges. I also like that it is a prism optic which prevents dot blur if you have an astigmatism. Some dislikes include the coarse adjustments (1 moa per click) and the short eye relief and small eye box.
+
+## Assembly Notes
+
+This build went together quite well considering it was my first, but I still had a few issues during assembly.
+
+I was unsure of how far the buffer tube should screw into the threads on the lower as the Aero tube was a little different than the generic tubes in the videos I watched. I just screwed it in as far as possible while still allowing the buffer catch pin to move freely and not sticking out beyond the end of the threads to prevent interference with the upper.
+
+The Aero lower receiver includes a set screw that can be used to tighten up any wiggle room between the upper and lower receivers. unfortunately, this is only accessible with the hand grip removed. The screw also tends to loosen when removing disassembling for cleaning. My solution was to apply thread locker to the threads and tighten the screw until any receiver wiggle is gone but disassembly is still possible.
+
+The biggest issue I had wasn't with the assembly but during the first test fires. The bolt catch wasn't correctly holding back the bolt after the last round in a magazine. I talk more about that in my [previous post]({% post_url 2024-01-20-ar-15-bolt-catch-problems %}).
