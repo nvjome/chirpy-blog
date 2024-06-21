@@ -9,3 +9,6 @@ group :test do
 end
 
 gem "jekyll-compose", group: [:jekyll_plugins]
+
+# force all external links to new tabs
+gem 'jekyll-target-blank', '~> 2.0', '>= 2.0.2'
