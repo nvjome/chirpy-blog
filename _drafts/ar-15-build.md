@@ -37,33 +37,33 @@ Even within my list of features, there were still some decisions to be made abou
 
 The barrel is probably the most impactful part of an AR-15 in regards to accuracy, and there are many options available in pursuit of different goals.
 
-Generally, longer barrels give more velocity and (arguably) better performance for long-range shooting, while shorter barrels are lighter and improve "dynamic handling characteristics", i.e. they are easier to move around quickly. I stuck with 16 inches as I wanted a shorter build with less focus on long-range target shooting.
+Generally, longer barrels give more velocity and therefore better performance for long-range shooting, while shorter barrels are lighter and improve "dynamic handling characteristics", i.e. they are easier to move around quickly. I chose 16 inches as I wanted a shorter build with less focus on long-range target shooting, but wanted long enough to legally still be a rifle.
 
 The material mattered less to me, but there are many options on the market. Some barrels have bores with chrome lining, there are different options for coatings, different manufacturing methods, and the list goes on. There are many other resources online that cover this better than I can even if I cared to try, so I won't.
 
-There are also different barrel profiles, which are best thought of as what the barrel looks like from the side. Pencil profiles are thinner than mil-spec to reduce weight but get heat up faster and aren't as stiff, reducing accuracy. Government, M4, and A2 [verify] profiles are closer to mil-spec, attempting to balance weight and accuracy. Heavy profiles are thicker than mil-spec, compromising weight for accuracy and heat capacity.
+There are also different barrel profiles, which are best thought of as what the barrel looks like from the side. Pencil profiles are thinner than mil-spec to reduce weight but heat up faster and aren't as stiff, reducing accuracy. Government, M4, and A2 [verify] profiles are closer to mil-spec, attempting to balance weight and accuracy. Heavy profiles are thicker than mil-spec, compromising on weight to gain accuracy and heat capacity.
 
 Then, there are different gas system lengths, which defines where on the barrel the gas port is drilled to direct gas to the upper receiver. Pistol-length is only used for very short barrels, like in pistols (Wow, how insightful!). Carbine-length seems to be the default. Mid-length is a bit longer and seems to be increasing in popularity. Rifle-length is even longer and is generally found on longer barrels.
 
-Longer length gas systems are intended to soften felt recoil by reducing the pressure of the gas that cycles bolt carrier group (BCG). Some argue this reduces reliability if the gun is very dirty.
+Longer length gas systems are intended to soften felt recoil by reducing the pressure of the gas that cycles bolt carrier group (BCG). Some argue this reduces reliability if the gun is very dirty. This may also require experimenting with buffer weight (more on that later).
 
-The gas system length along with the barrel length determine the dwell time, the amount of time between the bullet passing the gas port and exiting the barrel. AR-15s need enough dwell time to fully cycle the action. Determining this with hard numbers is, well, hard to do, so most people seem to recommend following a known-working configurations to prevent issues. The further you deviate from the "standard" configuration (16 inch barrel, carbine-length gas system, carbine buffer weight), there's more opportunities for problems.
+The gas system length along with the barrel length determines the dwell time, the amount of time between the bullet passing the gas port and it exiting the barrel. AR-15s need enough dwell time to fully cycle the action. Determining this with hard numbers is, well, hard to do, so most people seem to recommend following known-working configurations to prevent issues. The further you deviate from the "standard" configuration (16 inch barrel, carbine-length gas system, carbine buffer weight), there's more opportunities for problems.
 
 ### Buffer Length and Type
 
-There are two types of AR-15 buffers and buffer tubes, and two length options within these types. First, there are both commercial and military (mil-spec) types, which are are incompatible with each other. The most common appears to be mil-spec whether or not it is actually better than commercial.
+There are two types of AR-15 buffers and buffer tubes, and two length options within these types. First, there are both commercial and military (mil-spec) types. The most common appears to be mil-spec whether or not it is actually better than commercial. Note that this create two types of stocks as well, commercial and mil-spec, which are incompatible with each other.
 
 The second choice is easier, carbine or rifle length. Adjustable stocks require carbine length, so I went with that.
 
 ### Buffer Weight
 
-There are different weights available for the buffer, ranging from carbine (the lightest and the default for most people), H1, H2, and H3 (the heaviest). The correct weight is related to the barrel length, gas system length, if you have a suppressor attached, gas port hole size, what ammunition you use, desired reliability when very dirty, desired recoil characteristics, the position of the moon, and if you ate a healthy breakfast.
+There are different weights available for the buffer, ranging from carbine (the lightest and the default for most people), H1, H2, and H3 (the heaviest). The correct weight is related to the barrel length, gas system length, if a suppressor is used, gas port hole size, what ammunition you use, desired reliability when very dirty, desired recoil characteristics, the position of the earth, moon, and stars, and if you ate a healthy breakfast this morning.
 
-Generally, start with the carbine weight and increase as desired while evaluating reliability and ejection patterns. I ended up with an H1 buffer weight, which has been very reliable with my 16 inch barrel and mid-length gas system.
+Generally, it's recommended start with the carbine weight and increase as desired while evaluating reliability and ejection patterns. I ended up with an H1 buffer weight, which has been reliable with my 16 inch barrel and mid-length gas system.
 
 ### Optic
 
-The optic chosen is based on the intended use case of the rifle. My oversimplified understanding is red dots for close range, low-power and variable magnification for moderate ranges, and high-power scopes for longer ranges and hunting.
+The optic chosen is based on the intended use case of the rifle. Typically, red dots are used for close range, low-power and variable magnification for moderate ranges, and high-power scopes for longer ranges and hunting. Choosing an optic is another rabbit hole, and there are plenty of verifiable facts on Reddit and other such reputable sources of unbiased information for your enjoyment.
 
 ## My Build
 
@@ -73,7 +73,7 @@ The optic chosen is based on the intended use case of the rifle. My oversimplifi
 | :------------- | :----- | :----------------- |
 | Aero Precision |  | Fleet Farm (local) |
 
-The lower receiver is the what the US goverment considers the actual firearm part. I didn't want deal with buying online and shipping to an FFL, so I was a bit limited by what I could source locally. Fleet Farm stocked a few options, this Aero Precision part and another cheaper brand. The Aero had some more features, including the threaded bolt catch pin, so I went with it.
+The lower receiver is the what the USA goverment considers the actual firearm part. I didn't want deal with buying online and shipping to an FFL, so I was a bit limited by what I could source locally. Fleet Farm stocked a few options, this Aero Precision part and another cheaper brand. The Aero had some more features, including the threaded bolt catch pin, so I went with it.
 
 ### Lower Parts Kit
 
@@ -89,7 +89,7 @@ A generic parts kit. It included a grip which I didn't need, but I had a hard ti
 | :------------- | :----- | :----------------- |
 | Aero Precision |  |  |
 
-This included the buffer tube, spring, and buffer weight. They can all be source individually, but the compelte kit saves a bit of money. The enhanced [verify] version makes some tweaks on the mil-spec design that I though were good. Also, the standard version wasn't in stock and other kits were more expensive at the time.
+This included the buffer tube, spring, and buffer weight. They can all be source individually, but the complete kit saves a bit of money. The enhanced [verify] version makes some tweaks on the mil-spec design that I thought were good. Also, the standard version wasn't in stock and other kits were more expensive at the time.
 
 ### Stock
 
@@ -97,7 +97,7 @@ This included the buffer tube, spring, and buffer weight. They can all be source
 | :------------- | :----- | :----------------- |
 | Magpul MOE SL |  |  |
 
-I liked the cleaner look of the Magpul MOE SL stock over their mil-spec version. It fits snugly to the buffer tub with no rattle.
+I liked the cleaner look of the Magpul MOE SL stock over their mil-spec version. It fits snugly on the buffer tub with no rattle.
 
 ### Handgrip
 
@@ -113,9 +113,9 @@ I went with the SL grip for no other reason than it matches the stock. It has a 
 | :------------- | :----- | :----------------- |
 | Aero Precesion |  |  |
 
-I went with an complete upper to ease assembly difficulty. In hindsight, I probably would have been fine assembling the upper myself, but this kit was on sale with a BCG and charging handled included, which saved quite a bit of money compared to sourcing all the part individually.
+I went with an complete upper to ease assembly difficulty. In hindsight, I probably would have been fine assembling the upper myself, but this kit was on sale with a bolt carrier group and charging handled included, which saved quite a bit of money compared to sourcing all the part individually.
 
-This upper had a 16 inch barrel, which is the shortest legal length without being a short barreled rifle (SBR). I liked the look of the floating handguard, and it had picitanny rail on top and M-Lock slots on the bottom and sides to mount accesories. I probably won't go crazy with mounting light, lasers, or whatever people are doing these days, but having the option available is good.
+This upper had a 16 inch barrel, which is the shortest legal length without being a short barrelled rifle. I liked the look of the floating handguard, and it had picitanny rail on top and M-Lock slots on the bottom and sides to mount accesories. I probably won't go crazy with mounting lights, lasers, or whatever people are doing these days, but having the option available is good.
 
 ### Optic
 
@@ -133,4 +133,10 @@ I was unsure of how far the buffer tube should screw into the threads on the low
 
 The Aero lower receiver includes a set screw that can be used to tighten up any wiggle room between the upper and lower receivers. unfortunately, this is only accessible with the hand grip removed. The screw also tends to loosen when removing disassembling for cleaning. My solution was to apply thread locker to the threads and tighten the screw until any receiver wiggle is gone but disassembly is still possible.
 
-The biggest issue I had wasn't with the assembly but during the first test fires. The bolt catch wasn't correctly holding back the bolt after the last round in a magazine. I talk more about that in my [previous post]({% post_url 2024-01-20-ar-15-bolt-catch-problems %}).
+The biggest issue I had wasn't with the assembly but during the first test fires. The bolt catch wasn't correctly holding back the bolt after the last round in a magazine. I talk more about that in a [previous post]({% post_url 2024-01-20-ar-15-bolt-catch-problems %}).
+
+## Later Additions
+
+I made a few additions to my AR-15 in the months after building it. The first was a 3D printed foregrip I found on [Printables]() to mount to the handguard. I printed it in Galaxy Black Prusament PETG, and it looks and feels great. I also added a Magpul MS1 sling. I also needed an M-Lock quick detach mount and swivel for the front attachment point, and then used the slots in the stock for the rear.
+
+I would still like to somehow mount the 3x optic more rearward, as right now the short eye relief of the optic limits how much I can extend the stock. I'd like a longer length of pull, but that puts the optic too far from my eye. There are surprisingly few options for an offset picatanny rail, and a wider charging handle would likely be necessary, but I think it can be done. So stay tuned for that!
